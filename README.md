@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericpetron I am a student at the University of Minnesota - Twin Cities.
+- 👋 Hi, I’m @ericpetron I am a student at UMN
 - Languages I am most familiar with is C++, Java, C, Python, and a little OCaml
 
 <!---
